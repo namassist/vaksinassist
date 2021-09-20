@@ -12,13 +12,7 @@ const Footer = () => {
             <img src={Logo} alt="Logo" />
           </div>
           <div className="w-full lg:w-6/12 flex lg:justify-end tracking-wide font-semibold">
-            &copy; Copyright 2021 | Built by&nbsp;
-            <a
-              className="animate-pulse transform hover:scale-105 hover:text-sixth transition-all duration-150 "
-              href="https://github.com/namassist"
-            >
-              namassist
-            </a>
+            &copy; Copyright 2021 | Built by namassist
           </div>
         </div>
       </Container>
