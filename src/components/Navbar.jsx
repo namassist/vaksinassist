@@ -12,7 +12,9 @@ const Navbar = () => {
       <Container>
         <div className="flex items-center lg:justify-start">
           <div className="w-6/12">
-            <img src={Logo} alt="logo-website" />
+            <Link to="/">
+              <img src={Logo} alt="logo-website" />
+            </Link>
           </div>
           <div className="w-6/12 flex justify-end lg:hidden cursor-pointer">
             <svg
