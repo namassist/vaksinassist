@@ -26,8 +26,8 @@ const Hero = () => {
             </h4>
             <p className="text-gray-500 text-sm tracking-wide">
               Ayo dukung program pemerintah dalam menanggulangi pandemi COVID-19
-              dengan ikut melaksanakn kegiatan vaksinasi yang telah disediakan
-              oleh pemerintah, demi terwujudnya indonesia yang lebih baik
+              dengan ikut melaksanakan kegiatan vaksinasi, demi terwujudnya
+              indonesia yang lebih baik
             </p>
           </div>
         </div>
@@ -70,7 +70,7 @@ const Hero = () => {
                   </div>
                 </div>
                 <div className=" w-full lg:w-2/12 flex justify-center items-center">
-                  <button className="bg-secondary-color text-gray-100 w-full h-10 text-xs py-2 uppercase rounded-md font-bold tracking-wider">
+                  <button className="bg-secondary-color text-gray-100 w-full h-10 text-xs py-2 uppercase rounded-md font-bold tracking-wider hover:bg-third-color transition-all duration-300">
                     cek
                   </button>
                 </div>

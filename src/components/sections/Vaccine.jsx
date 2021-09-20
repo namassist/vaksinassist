@@ -229,7 +229,7 @@ const Vaccine = () => {
               </div>
             </div>
           </div>
-          <button className="bg-third-color px-4 py-3 text-gray-100 rounded-md w-full">
+          <button className="bg-third-color px-4 py-3 text-gray-100 rounded-md w-full hover:bg-secondary-color transition-all duration-300">
             Lihat Data Berdasarkan Provinsi Lainnya
           </button>
         </div>

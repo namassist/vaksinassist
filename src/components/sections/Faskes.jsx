@@ -20,7 +20,7 @@ const Faskes = () => {
                 />
               </div>
               <div className="w-2/12 flex justify-center items-center">
-                <button className="bg-secondary-color text-gray-100 w-full h-10 text-xs py-2 uppercase rounded-md font-bold tracking-wider">
+                <button className="bg-secondary-color text-gray-100 w-full h-10 text-xs py-2 uppercase rounded-md font-bold tracking-wider hover:bg-third-color transition-all duration-300">
                   Cari
                 </button>
               </div>
