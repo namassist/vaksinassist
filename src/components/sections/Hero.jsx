@@ -25,9 +25,9 @@ const Hero = () => {
               COVID-19
             </h4>
             <p className="text-gray-500 text-sm tracking-wide">
-              Fusce luctus sapien non enim tincidunt hendrerit. Donec ut tellus
-              mollis, rutrum est euismod, tincidunt lorem. Nunc pulvinar ex ac
-              risus varius tincidunt. Nunc accumsan.
+              Ayo dukung program pemerintah dalam menanggulangi pandemi COVID-19
+              dengan ikut melaksanakn kegiatan vaksinasi yang telah disediakan
+              oleh pemerintah, demi terwujudnya indonesia yang lebih baik
             </p>
           </div>
         </div>
