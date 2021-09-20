@@ -51,7 +51,7 @@ const Faq = () => {
                         {clicked === index ? (
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
-                            className="h-5 w-5"
+                            className="h-5 w-5 cursor-pointer"
                             viewBox="0 0 20 20"
                             fill="#4f65e9"
                           >
@@ -64,7 +64,7 @@ const Faq = () => {
                         ) : (
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
-                            className="h-5 w-5"
+                            className="h-5 w-5 cursor-pointer"
                             viewBox="0 0 20 20"
                             fill="#4f65e9"
                           >
